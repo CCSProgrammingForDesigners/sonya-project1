@@ -1,0 +1,75 @@
+html {
+  background: url(images/birthday.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body { margin:0;
+    }
+
+  h1   {color: rgb(255, 255, 255);
+    font-family: 'Teko', sans-serif;
+    font-size: 170pt;
+    line-height: 70%;
+    margin-top: 270px;
+    text-align: center;
+  }
+
+  h2   {color: #ffffff;
+    font-family: 'Teko', sans-serif;
+    font-size: 70pt;
+    padding-top: 40px;
+    margin-bottom: 0px;
+  }
+
+  h3   {color: #ffffff;
+    font-family: 'Jaldi', sans-serif;
+    font-size: 30pt;
+  }
+
+  p   {color: #666;
+    font-family: 'Jaldi', sans-serif;
+    font-size: 15pt;
+    padding: 5% 10% 5% 10%;
+  }
+
+  a:link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.pinkbox {
+    background-color: #ee3d96;
+    color: rgba(255, 0, 0, 0.5);
+    text-align: center;
+    padding-bottom: 50px;
+    margin: 0px;
+}
+
+.whitebox {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: rgba(255, 0, 0, 0.5);
+    text-align: center;
+    margin-top: -20px;
+    padding-bottom: 30px;
+}
+
+.button {
+    background-color: #ee3d96;
+    border-radius: 25px;
+    width: 240px;
+    height: 50px;
+    font-family: 'Jaldi', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 20%;
+    min-width: 300px;
+    padding: 10px;
+    height: auto;
+}
